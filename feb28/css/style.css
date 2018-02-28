@@ -1,0 +1,18 @@
+section {
+  height: 600px;
+  background-color: darkgreen;
+  padding: 5px;
+  margin: 15px;
+  display: flex;
+  flex-direction: row-reverse;
+  align-items: stretch;
+}
+
+div {
+  flex: 1;
+  font-size: 30px;
+  color: white;
+  background-color: yellow;
+  margin: 5px;
+}
+/*# sourceMappingURL=style.css.map */
