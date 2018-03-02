@@ -1,0 +1,32 @@
+html {
+  background-color: pink;
+}
+
+.stuff {
+  color: red;
+}
+
+.things {
+  color: yellow;
+}
+
+#orange {
+  color: darkgreen;
+}
+
+p {
+  color: slateblue;
+}
+
+span {
+  color: purple;
+}
+
+div {
+  color: palevioletred;
+}
+
+div span {
+  color: orange;
+}
+/*# sourceMappingURL=style.css.map */
